@@ -1,0 +1,7 @@
+<?php
+su nombre
+echo htmlspecialchars($_post['nombre']);
+?>
+<?php
+su edad es echo (int)$_post['edad']; años
+?>
